@@ -1,0 +1,19 @@
+#headI {
+    font-size: larger;
+    color: white;
+    text-align: center;
+
+}
+
+.heading {
+    color: blueviolet;
+}
+#head {
+    font-size: 32px;
+    text-align: left;
+    color: blue;
+    font-weight: bold;
+}
+.para {
+    color: blue
+}
